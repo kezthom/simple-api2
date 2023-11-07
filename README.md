@@ -1,22 +1,9 @@
-# 📊 Project: Simple API 2
+# 📊 Project: Riddle Generator
 
-### Goal: Display data returned from an api
+### Goal: Recieve a random riddle
 
-### How to submit your code for review:
+https://htmlpreview.github.io/?https://github.com/kezthom/simple-api2/blob/answer/index.html
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+
+<img width="1262" alt="Screenshot 2023-11-07 at 5 10 58 PM" src="https://github.com/kezthom/simple-api2/assets/137250400/68d1dc33-3e66-416d-a04a-14d7f70b859d">
